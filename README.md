@@ -1,4 +1,4 @@
-´´´mermaid
+```mermaid
 graph TD
     %% RECEPCIÓN
     A[Webhook Typebot] -->|doPost| B(Encolar Tarea)
